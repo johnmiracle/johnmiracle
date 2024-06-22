@@ -4,7 +4,7 @@
 
 Hi there, I'm Miracle Anaje👋
 
-🔭 I’m currently working on building innovative technologies and exploring the latest in AI to provide solutions across the agriculture and food value chain. View my <a href="https://sites.google.com/view/miracleanaje/projects?authuser=0">Project</a>[Project()], Articles, Resumé, Contact Me.
+🔭 I’m currently working on building innovative technologies and exploring the latest in AI to provide solutions across the agriculture and food value chain. View my <a href="https://sites.google.com/view/miracleanaje/projects?authuser=0">Project</a>, Articles, Resumé, Contact Me.
 
 🌱 I’m learning Ethical Hacking, API Security, and deep learning algorithms.
 
