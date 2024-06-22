@@ -1,8 +1,10 @@
-(![image](https://github.com/johnmiracle/johnmiracle/assets/33139154/c5556112-0f10-4eb4-9f26-e77d356d4a39))
+<div align="center">
+  ![image](https://github.com/johnmiracle/johnmiracle/assets/33139154/c5556112-0f10-4eb4-9f26-e77d356d4a39)
+</div>
 
 Hi there, I'm Miracle Anaje👋
 
-🔭 I’m currently working on building innovative technologies and exploring the latest in AI to provide solutions across the agriculture and food value chain. View my [Project]https://sites.google.com/view/miracleanaje/projects?authuser=0), Articles, Resumé, Contact Me.
+🔭 I’m currently working on building innovative technologies and exploring the latest in AI to provide solutions across the agriculture and food value chain. View my [Project(https://sites.google.com/view/miracleanaje/projects?authuser=0)], Articles, Resumé, Contact Me.
 
 🌱 I’m learning Ethical Hacking, API Security, and deep learning algorithms.
 
