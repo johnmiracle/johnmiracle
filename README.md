@@ -2,9 +2,8 @@
   <image src="https://github.com/johnmiracle/johnmiracle/assets/33139154/c5556112-0f10-4eb4-9f26-e77d356d4a39"></image>
 </div>
 
-<div align="center">
-  <p class='font-15'>Hi there, I'm Miracle Anaje👋</p>
-</div>
+<h1 align="center" class="heading-element" dir="auto"><a href="https://sites.google.com/view/miracleanaje/projects?authuser=0" rel="nofollow">Hi there, I'm Miracle Anaje👋</a></h1>
+
 <hr />
 <div align="center">
   <p class='font-15'>Frontend developer, Full stack  developer, UI/UX Designer</p>
