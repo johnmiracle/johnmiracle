@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/johnmiracle/johnmiracle/assets/33139154/c5556112-0f10-4eb4-9f26-e77d356d4a39)
+  <image src="https://github.com/johnmiracle/johnmiracle/assets/33139154/c5556112-0f10-4eb4-9f26-e77d356d4a39"></image>
 </div>
 
 Hi there, I'm Miracle Anaje👋
